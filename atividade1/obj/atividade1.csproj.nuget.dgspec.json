@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\GitHub\\aulajorgao\\atividade1\\atividade1.csproj": {}
+    "C:\\Users\\UCL\\Documents\\GitHub\\aulajorgao\\atividade1\\atividade1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\GitHub\\aulajorgao\\atividade1\\atividade1.csproj": {
+    "C:\\Users\\UCL\\Documents\\GitHub\\aulajorgao\\atividade1\\atividade1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\GitHub\\aulajorgao\\atividade1\\atividade1.csproj",
+        "projectUniqueName": "C:\\Users\\UCL\\Documents\\GitHub\\aulajorgao\\atividade1\\atividade1.csproj",
         "projectName": "atividade1",
-        "projectPath": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\GitHub\\aulajorgao\\atividade1\\atividade1.csproj",
-        "packagesPath": "C:\\Users\\T-GAMER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\GitHub\\aulajorgao\\atividade1\\obj\\",
+        "projectPath": "C:\\Users\\UCL\\Documents\\GitHub\\aulajorgao\\atividade1\\atividade1.csproj",
+        "packagesPath": "C:\\Users\\UCL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\UCL\\Documents\\GitHub\\aulajorgao\\atividade1\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ucl\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\T-GAMER\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\UCL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
